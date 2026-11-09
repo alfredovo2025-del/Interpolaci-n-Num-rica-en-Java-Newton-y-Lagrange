@@ -58,5 +58,4 @@ Lagrange P(3.00) = 5.6667
 double[] x = {1.0, 2.0, 4.0};
 double[] y = {2.0, 3.0, 10.0};
 double xEval = 3.0;
-
-`[https://github.com/alfredovo2025-del/Interpolaci-n-Num-rica-en-Java-Newton-y-Lagrange/new/main?filename=README.md]`
+[https://github.com/alfredovo2025-del/Interpolaci-n-Num-rica-en-Java-Newton-y-Lagrange/new/main?filename=README.md]
