@@ -59,6 +59,4 @@ double[] x = {1.0, 2.0, 4.0};
 double[] y = {2.0, 3.0, 10.0};
 double xEval = 3.0;
 
-Lo único que **tienes que cambiar tú** es la línea donde dice `[https://github.com/alfredovo2025-del/Interpolaci-n-Num-rica-en-Java-Newton-y-Lagrange/new/main?filename=README.md]` por tu link real de GitHub.
-
-¿Me pasas tu link para dejártelo ya puesto?
+`[https://github.com/alfredovo2025-del/Interpolaci-n-Num-rica-en-Java-Newton-y-Lagrange/new/main?filename=README.md]`
